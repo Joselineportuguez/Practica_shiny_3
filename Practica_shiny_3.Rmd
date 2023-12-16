@@ -1,0 +1,27 @@
+---
+title: "Practica_shiny_3"
+author: "Joseline Portuguez L"
+date: "2023-12-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(stringr)
+library(readr)
+library(readxl) 
+library(writexl) 
+library(utils)
+library(RSQLite) 
+library(DBI) 
+library(shiny)
+library(shinydashboard)
+library(ggplot2)
+library(plotly)
+library(DT)
+```
+
+
+
+
